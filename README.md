@@ -9,7 +9,7 @@ in the directory search add - ls -ltr /dev/*usb*
 
  add a new command whit the name serial port
 
-example : /dev/cu.usbserial-1410
+example : /dev/tty.usbserial-1410
 
 the command is: screen /dev/tty.usbserial-1410
 
