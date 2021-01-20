@@ -1,4 +1,4 @@
-# confcisco
+# conf - Cisco Catalyst C1000-48T-4G-L
 
 configuration starting
 
